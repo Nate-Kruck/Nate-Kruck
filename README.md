@@ -9,4 +9,4 @@
 - 💬 Ask me anything!
 - 📫 How to reach me: natekruck@outlook.com
 
-<img src="../Images/ILoveJstransparent.png" alt="I ❤️ JS">
+![Drag Racing](../Images/ILoveJstransparent.png)
