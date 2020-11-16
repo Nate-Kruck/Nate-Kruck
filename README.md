@@ -9,4 +9,4 @@
 - 💬 Ask me anything!
 - 📫 How to reach me: natekruck@outlook.com
 
-![I Love JS](./ILoveJstransparent.png)
+![I Love JS](https://github.com/Nate-Kruck/Nate-Kruck/blob/main/images/ILoveJStransparent.png)
