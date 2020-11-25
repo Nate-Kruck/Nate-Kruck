@@ -5,7 +5,7 @@
 -->
 
 - 🧠  Coding relaxes my brain.
-- 🌱  I’m currently learning about the Azure Facial Recognition API.
+- 🌱  I’m currently working on my Portfolio.
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
