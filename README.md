@@ -8,7 +8,9 @@
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
-![I Love JS](https://github.com/Nate-Kruck/Nate-Kruck/blob/main/images/ILoveJStransparent.png)
+<p align="center">
+<img width="500" height="200" src="https://github.com/Nate-Kruck/Nate-Kruck/blob/main/images/ILoveJStransparent.png">
+</p>
 
 <a href="https://github.com/Nate-Kruck/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nate-Kruck&count_private=true&show_icons=true&theme=vision-friendly-dark" />
