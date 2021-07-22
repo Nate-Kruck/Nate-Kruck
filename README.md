@@ -4,6 +4,9 @@
 **Nate-Kruck/Nate-Kruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🤑  Solidity expert + Crypto investor. 
+- 🔽 Follow my Twitter (not fincancial advice 😉) 
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CryptoKruck.svg?style=social&label=Follow%20%40CryptoKruck)](https://twitter.com/CryptoKruck)
+
 - 🌱  I’m currently working on my Portfolio(again) after a rough year.
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
