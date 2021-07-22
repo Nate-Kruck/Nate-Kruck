@@ -3,8 +3,8 @@
 <!--
 **Nate-Kruck/Nate-Kruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 🌱  I’m currently working on my Portfolio.
+- 🤑  Solidity expert + Crypto investor. 
+- 🌱  I’m currently working on my Portfolio(again) after a rough year.
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
