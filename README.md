@@ -7,7 +7,7 @@
 - 🔽 Follow my Twitter (not fincancial advice 😉) 
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CryptoKruck.svg?style=social&label=Follow%20%40CryptoKruck)](https://twitter.com/CryptoKruck)
 
-- 🌱  I’m currently working on my Portfolio(again) after a rough year.
+- 🌱  Currently working on side projects to add to my portfolio.
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
