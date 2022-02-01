@@ -20,6 +20,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Kruck&layout=compact&theme=vision-friendly-dark" />
 </a>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nate-Kruck&theme=react-dark)](https://github.com/Nate-Kruck/github-readme-activity-graph)
+
 <p align="center">
 <img width="500" height="200" src="https://github.com/Nate-Kruck/Nate-Kruck/blob/main/images/ILoveJStransparent.png">
 </p>
