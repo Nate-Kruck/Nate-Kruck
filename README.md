@@ -1,5 +1,9 @@
 # Hi friend 👋
 
+Keeping the streak alive! 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nate-Kruck)](https://git.io/streak-stats)
+
+
 <!--
 **Nate-Kruck/Nate-Kruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
