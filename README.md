@@ -10,7 +10,7 @@
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nate-Kruck)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nate-Kruck&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&ring=40DD34)](https://git.io/streak-stats)
 
 <a href="https://github.com/Nate-Kruck/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nate-Kruck&count_private=true&show_icons=true&theme=vision-friendly-dark" />
