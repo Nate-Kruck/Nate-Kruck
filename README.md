@@ -3,7 +3,7 @@
 <!--
 **Nate-Kruck/Nate-Kruck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🤑  Solidity expert + Crypto investor. 
+- 🤑 Crypto investor. 
 - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CryptoKruck.svg?style=social&label=Follow%20%40CryptoKruck)](https://twitter.com/CryptoKruck)
 
 - 🌱  Currently working on side projects to add to my portfolio.
