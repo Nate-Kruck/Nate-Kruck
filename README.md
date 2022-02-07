@@ -5,7 +5,7 @@
 -->
 - 🤑 Crypto investor :point_right: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CryptoKruck.svg?style=social&label=Follow%20%40CryptoKruck)](https://twitter.com/CryptoKruck)
 
-- 🌱  Currently working on side projects to add to my portfolio.
+- 🌱  Currently learning Angular and Typescript.
 - 💬  Ask me anything!
 - 📫  How to reach me: natekruck@outlook.com
 
